@@ -1,11 +1,11 @@
 # Site settings
-author: Brittney Ramirez
-title: 
+author: Brittney 
+title: My Coding Journey
 header-img: img/home-bg.png
 email: brittneyramirez79@gmail.com
-copyright_name: Brittney Ramirez
+copyright_name: Brittney 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning the languages
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ramirezb45
